@@ -11,13 +11,13 @@ Made specifically for [this version of minesweeper](http://minesweeperonline.com
 | Parameter        | Description           |
 | ------------- |:-------------:|
 | Number_attempts      | number of games to attempt to solve |
-| Level| 'e' for expert, 'i' for intermidiate, 'b' for beginner      |
+| Level| 'e' for expert, 'i' for intermediate, 'b' for beginner      |
 | Artificial Delay | delay before each game (for mimicking human score)|
 
 | Level        | Success Rate           |
 | ------------- |:-------------:|
 | Expert      | ~2% |
-| Intermidiate      | ~60%      |
-| beginner | ~97%      |
+| Intermediate      | ~60%      |
+| Beginner | ~97%      |
 
 
